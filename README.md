@@ -1,4 +1,3 @@
-## Hi there 👋
+# Hi 👋, I'm Yugesh Reddy Sappidi
 
-
-**Yugesh-reddy/Yugesh-reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer · Reaserch  · Adversarial Robustness · AI Safety 
